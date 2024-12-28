@@ -3,7 +3,7 @@
 <img src="assets/logo.svg" width="400px" alt="Nubit Logo" />
 
 ## Background
-The Modular Indexer, which includes [Committee Indexer](##What-is-Committee-Indexer?) and [Light Indexer](https://github.com/RiemaLabs/modular-indexer-light), introduces a fully user-verified execution layer for Bitcoin's meta-protocols. By leveraging the immutable and decentralized characteristics of Bitcoin, it provides a Turing-complete execution layer, going beyond the limitations of Bitcoin's script language.
+The Modular Indexer, which includes [Committee Indexer](#what-is-committee-indexer?) and [Light Indexer](https://github.com/RiemaLabs/modular-indexer-light), introduces a fully user-verified execution layer for Bitcoin's meta-protocols. By leveraging the immutable and decentralized characteristics of Bitcoin, it provides a Turing-complete execution layer, going beyond the limitations of Bitcoin's script language.
 
 Our innovative approach uses Verkle trees for trusted, decentralized data integrity. Even with a majority of hostile modular-indexer-committees, the Modular Indexer reliably connects Bitcoin with complex applications like BRC-20, propelling the ecosystem forward.
 
